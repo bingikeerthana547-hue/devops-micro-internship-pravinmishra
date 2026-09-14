@@ -92,7 +92,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/task-3-diagram.jpeg)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -218,9 +218,7 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
+https://lnkd.in/p/dEGS2p4p
 
 ---
 
@@ -228,7 +226,26 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 Week 1 of my DevOps Learning Journey!
+I’m happy to share that I completed my first set of tasks in the DevOps Micro Internship.
+This week I learned some basic concepts that helped me understand how the internet and applications work.
+🤖 ChatGPT
+I learned how ChatGPT can be used as a learning assistant. I practiced writing a clear prompt and used it to understand a networking concept with a simple real-life example.
+🌐 Internet & Networking
+I learned how a user can access a website hosted in another country. I understood the basic concepts of packet switching, IP addresses, TCP/IP and HTTP/HTTPS and how they are involved when we access a website.
+🏗️ Application Architecture
+I learned about two-tier and three-tier application architectures.
+In a two-tier architecture, the frontend communicates with the database. In a three-tier architecture, the frontend communicates with the backend, and the backend communicates with the database.
+I also learned about some common technologies used in the frontend, backend and database layers.
+🔗 DNS
+I learned about DNS (Domain Name System) and how it helps connect a domain name with the IP address of a server.
+I also learned that an A record is used when connecting a domain to an IPv4 address. The port number is handled separately by the application or web server.
+💻 VS Code Setup
+I set up my Visual Studio Code environment and explored the integrated terminal. I also selected a theme and practiced basic commands such as whoami, pwd and ls.
+Overall, this week helped me understand the basics of networking, application architecture, DNS and development tools. It was a good starting point for my DevOps journey, and I’m looking forward to learning more! 🚀
+Thank you @Pravin Mishra, @Anjana Muthunayake, for the guidance and learning opportunity.
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/bingikeerthana547-hue.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+#DMIByPravinMishra #DevOps #AgenticAI
 
 ---
 
@@ -236,20 +253,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+The basic networking concepts were easy for me to understand, especially IP addresses, DNS and HTTP/HTTPS. The real-life examples also made the concepts easier to remember.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+At first, I found it a little difficult to understand how all the networking concepts work together. I was also confused about the difference between an IP address, domain name and port number. After going through examples, I understood them better.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
-
+Next week, I want to focus more on practical work instead of only learning the concepts. I want to practice more terminal commands and understand how DevOps tools are actually used in real projects.
 ---
 
 ## 📌 About DMI & CloudAdvisory
