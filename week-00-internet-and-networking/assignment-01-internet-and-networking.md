@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a protocol is a set of rules that helps computers communicate with each other. For example, like people follow a proper way to order food in a restaurant, computers also follow protocols to send and receive information correctly.
 
 ---
 
@@ -59,7 +59,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+EpicReads is an online bookstore with its website hosted on a server in Finland. Even though the server is in Finland, people from anywhere in the world can still access the website using the internet. Each device has an IP Address, which helps the data know where it needs to go. TCP/IP helps the user's device communicate with the EpicReads server. When someone visits the website, the information is broken into small pieces called packets. This is known as Packet Switching, and the packets can take different routes to reach the server. When they arrive, they are put back together so the website can load. HTTP/HTTPS is used to send information between the user's browser and the server. HTTPS also keeps the connection more secure.
+
 
 ---
 
@@ -102,18 +103,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Java
+* Python
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* MongoDB
 
 ---
 
@@ -142,7 +143,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the phonebook of the internet. It converts easy-to-remember domain names, such as epicreads.com, into the IP addresses of the servers hosting them. To connect epicreads.com to 52.172.142.222, an A (Address) record should be used because it maps a domain name to an IPv4 address. The port 3000 is not included in the DNS record; it is handled separately by the application or web server/reverse proxy configuration.
 
 ---
 

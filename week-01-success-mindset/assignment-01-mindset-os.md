@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that always helping people does not necessarily make them value you more. Many people believe that being available whenever someone needs help is a sign of being a good and supportive person. However, I have observed that when you keep saying yes to people, they can start taking your help for granted. The moment you say no because of a genuine reason, they may forget all the times you helped them and remember only that one time you refused. This made me believe that helping others is important, but setting boundaries and knowing when to say no is equally important.
 
 ---
 
@@ -55,11 +55,13 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+If I consistently prioritize helping others over my own responsibilities, my own results will suffer.
 
 ### Evidence from my life
 
-Add your answer here...
+In my first semester, I regularly helped my classmates by sharing notes, answers, and explanations, even when I had not finished studying myself.
+During my PPS exam, I had a fever, but I still spent time helping others instead of completing my own preparation, and I left one unit out of five.
+I did not get the percentage I wanted. In the next semester, I prioritized my own studies while still helping others when I had time, and my rank improved from 10th to 2nd.
 
 ---
 
@@ -67,11 +69,13 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+When one approach to a problem fails, trying a different approach can lead to a solution instead of giving up.
 
 ### Evidence from my life
 
-Add your answer here...
+While working on one of my projects, I tried to implement three AI features, but they did not work because of code errors and problems with my approach.
+Instead of giving up, I tried different approaches and used multiple AI tools such as ChatGPT, Google AI Studio, Replit, Copilot, and GitHub to understand and solve the problems.
+After experimenting with different solutions, I was finally able to fix the issues and complete my project.
 
 ---
 
@@ -79,11 +83,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Staying silent after a conflict does not always solve the problem.
 
 ### Evidence from my life
 
-Add your answer here...
+After the incident, I became quiet and avoided arguments, even when I needed help from my teammate. I thought staying silent would prevent another conflict, but it also made it harder to communicate and complete the work properly. I learned that calmly explaining the problem is better than either reacting angrily or completely avoiding communication.
 
 ---
 
@@ -135,14 +139,13 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+LinkedIn
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
-
+https://lnkd.in/p/dzZnFHPj
 ---
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
@@ -173,7 +176,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I felt guilt, regret, embarrassment, and stress after the incident. I was already frustrated because I felt that I was carrying most of the project work, and in that moment I reacted rudely toward my teammate. When her friend saw the message and yelled at me in front of the entire class, I felt extremely embarrassed and started believing that I had made a very big mistake. I also felt helpless because everyone seemed to see me as the culprit without knowing what had happened. After that, I became very quiet and avoided saying anything, even when I needed help. The experience made me realize that reacting out of anger can hurt me emotionally, and I learned to control my words better when I am frustrated.
 
 ---
 
@@ -199,16 +202,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. How to Win Friends and Influence People — Dale Carnegie
+2. The Defining Decade — Meg Jay
+3. The Confidence Code — Katty Kay and Claire Shipman
+4. The Making of a Manager — Julie Zhuo
+5. Designing Your Life — Bill Burnett and Dave Evans
+6. The Blue Zones: Lessons for Living Longer From the People Who’ve Lived the Longest — Dan Buettner
+7. The Courage to Be Disliked — Ichiro Kishimi & Fumitake Koga
+8. The Upside of Stress — Kelly McGonigal
+9. Just Listen: Discover the Secret to Getting Through to Absolutely Anyone — Mark Goulston
+10. Smart Brevity: The Power of Saying More with Less — Jim VandeHei, Mike Allen & Roy Schwartz
 
 ---
 
@@ -237,16 +240,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Certifications and courses completed
+* Personal spending and savings
+* Time spent on social media and distractions
+* New technical skills learned
+* Water intake
+* Goals completed
+* Competitions participated in
+* LinkedIn profile improvements
+* Resume improvements
+* Sleep hours
 
 ---
 
@@ -272,7 +275,8 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
+I wrote down my pending tasks, academic responsibilities, career goals, project ideas, placement preparation, DMI work, personal responsibilities, and things that were occupying my mind.
 
 ---
 
@@ -290,7 +294,15 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Monday: 1 hour for GATE preparation + 1 hour for revision of known programming languages and technical skills
+* Tuesday: 1 hour for placement drive preparation + 1 hour for coding/problem-solving practice
+* Wednesday: 1–2 hours for GATE preparation and revision of important concepts
+* Thursday: 1 hour for placement preparation + revision of programming languages and technical subjects
+* Friday: 1–2 hours for completing pending college assignments and other assigned works
+* Saturday: 2–3 hours for DMI work + major project development and documentation
+* Sunday: Weekly revision, GATE practice, placement preparation, major project work, and planning for the upcoming week
+* Daily: Complete urgent college tasks and spend some time revising technical skills or programming
+* Weekly: Review progress in GATE preparation, placement preparation, DMI, major project, college work, and identify unfinished tasks
 
 ---
 
@@ -298,11 +310,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Saturday: 6:00 PM – 8:00 PM
+Sunday: 5:00 PM – 6:30 PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+2 sessions per week — one main session on Saturday and one shorter session on Sunday for completing pending tasks and reviewing progress.
 
 ---
 
@@ -316,7 +329,13 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Keep my phone on silent/DND mode during study and DMI sessions.
+* Avoid checking social media while studying.
+* Use my phone only when it is required for learning or college work.
+* Keep unnecessary browser tabs and applications closed.
+* Study in a clean and quiet environment.
+* Keep notifications turned off during GATE, placement, and DMI preparation.
+
 
 ---
 
@@ -324,27 +343,26 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I have many things to manage at the same time, including college work, GATE preparation, placements, DMI, and my major project. I noticed that when I don't plan properly, I keep some tasks for later and then feel stressed when everything starts becoming urgent. I also realized that I don't need to do everything perfectly in one day. Having a simple routine and making steady progress is more realistic for me.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is that I feel nervous and uncomfortable when I have to speak with strangers or when I am in a large crowd or gathering. I sometimes overthink what I should say and worry about how the other person might respond. Because of this, I may stay quiet even when I have something to say. I noticed that this can become a problem in situations like group discussions, interviews, presentations, or meeting new people. I want to slowly work on this by taking small opportunities to speak instead of avoiding them.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+From this week, I will follow a 7:00 PM to 8:30 PM focused routine on weekdays. From 7:00–7:15 PM, I will practice speaking or start a small conversation with someone to improve my confidence. From 7:15–7:55 PM, I will work on GATE or placement preparation. From 7:55–8:20 PM, I will revise programming languages or technical concepts that I already know. I will use the remaining 10 minutes to check my pending college work, DMI tasks, or major project and decide what I need to complete next. During this time, I will keep my phone away and avoid social media. I will also use Saturday and Sunday evenings for longer DMI and major project sessions.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
-
+https://lnkd.in/p/dzZnFHPj
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: https://lnkd.in/p/dzZnFHPj
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
