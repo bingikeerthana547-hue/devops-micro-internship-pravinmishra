@@ -363,8 +363,7 @@ https://lnkd.in/p/dzZnFHPj
 ## 10. Proof of Work
 
 - LinkedIn Post URL: https://lnkd.in/p/dzZnFHPj
-- Blog / Medium : **ADD LINK HERE**  
-
+- Blog / Medium : https://embracinggratitude2.wordpress.com/2026/09/15/what-does-my-2-0-version-look-like/
 ---
 
 ## 📌 About DMI & CloudAdvisory
