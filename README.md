@@ -130,8 +130,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/dEGS2p4p | https://embracinggratitude2.wordpress.com/2026/09/14/%f0%9f%9a%80-week-1-of-my-devops-learning-journey/ |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://lnkd.in/p/dzZnFHPj | https://embracinggratitude2.wordpress.com/2026/09/15/what-does-my-2-0-version-look-like/ |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/bingi-keerthana-301841297_dmibypravinmishra-devops-agenticai-ugcPost-7505254583741427712-mP1V/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfZXHEBj4jmsCUc2fst6nF00K4qCpW_Wm4 | https://embracinggratitude2.wordpress.com/2026/09/14/%f0%9f%9a%80-week-1-of-my-devops-learning-journey/ |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/bingi-keerthana-301841297_dmibypravinmishra-devops-agentica-share-7505198491187658752-UxlD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfZXHEBj4jmsCUc2fst6nF00K4qCpW_Wm4 | https://embracinggratitude2.wordpress.com/2026/09/15/what-does-my-2-0-version-look-like/ |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |

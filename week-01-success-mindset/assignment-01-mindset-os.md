@@ -145,7 +145,7 @@ LinkedIn
 
 Paste your link here:
 
-https://lnkd.in/p/dzZnFHPj
+https://www.linkedin.com/posts/bingi-keerthana-301841297_dmibypravinmishra-devops-agentica-share-7505198491187658752-UxlD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfZXHEBj4jmsCUc2fst6nF00K4qCpW_Wm4
 ---
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
@@ -357,12 +357,12 @@ From this week, I will follow a 7:00 PM to 8:30 PM focused routine on weekdays. 
 
 Paste your LinkedIn post link here:
 
-https://lnkd.in/p/dzZnFHPj
+https://www.linkedin.com/posts/bingi-keerthana-301841297_dmibypravinmishra-devops-agentica-share-7505198491187658752-UxlD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfZXHEBj4jmsCUc2fst6nF00K4qCpW_Wm4
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: https://lnkd.in/p/dzZnFHPj
+- LinkedIn Post URL: https://www.linkedin.com/posts/bingi-keerthana-301841297_dmibypravinmishra-devops-agentica-share-7505198491187658752-UxlD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfZXHEBj4jmsCUc2fst6nF00K4qCpW_Wm4
 - Blog / Medium : https://embracinggratitude2.wordpress.com/2026/09/15/what-does-my-2-0-version-look-like/
 ---
 

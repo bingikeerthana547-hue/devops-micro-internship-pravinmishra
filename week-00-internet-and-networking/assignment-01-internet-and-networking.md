@@ -218,7 +218,7 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-https://lnkd.in/p/dEGS2p4p
+https://www.linkedin.com/posts/bingi-keerthana-301841297_dmibypravinmishra-devops-agenticai-ugcPost-7505254583741427712-mP1V/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfZXHEBj4jmsCUc2fst6nF00K4qCpW_Wm4
 
 ---
 
